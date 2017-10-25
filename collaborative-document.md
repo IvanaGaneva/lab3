@@ -16,6 +16,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Florence Welsh
 - Matt Davies
 - Kishan Radia
+- Ivana Ganeva
 
 (add your name as a new bullet-point to the above list)
 
@@ -118,6 +119,16 @@ A negative correlation is shown in the plot, with the estimated percent of the p
 ### Ivana
 
  495          Salford & Eccles
+ 
+ ![Ivana's graph of North West contituencies](IvanaG-plot.svg)
+ 
+This plot shows, for all constituencies in the North west region, the relationship between electoral change (particularly regarding the Labour party, at the 2015 and 2017 General Elections) and the change in the percentage of unemployed people between the years of 2015 and 2017.
+
+What could easily be seen from this scatterplot *(looking at the x-axis range, e.g.)* is that the Labour party suffered a huge decrease in the percentage of votes received from the region of North West, as a whole. In fact, not only no  constituency showed positive change in the percentage of votes for the Labour party, but there was not a single constituency to have the same relative amount of votes for the Labour party in 2017 as in 2015.
+
+Apparently, there wasn't a well-defined obvious dependency of this electoral swift on the percentage change in the number of unemployed people for the same period. Regardless of the broadening/shrinking of the employment sector, votes for the Labour party were tangibly less, compared to the ones from the penultimate General Election ones.
+
+The *Salford & Eccles*, highlighted in orange red in the plot, shows a relative increase of 10 percent in the number of unemployed people in that region between 2015 and 2017, and one of the biggest negative changes in the percentage of votes for the Labour parties, again for the same years, i.e. $\approx$ 17 percent less in the latter Election.
 
 ### Jamie
 
